@@ -8,7 +8,8 @@
 如果你安装了MMDtool插件,那么这个插件应该会在n面板的MMD栏下出现
 
 ## 使用说明
-
+主界面
+![测试图片](image/main.png)
 
 ## 其他
 插件使用blender中的serpens3插件制作,如果有修改插件的需要,blender安装serpens插件后下载并打开bledner文件即可
