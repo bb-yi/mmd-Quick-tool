@@ -48,7 +48,7 @@
 
 *按钮下方显示,当前正在渲染第几个队列的第几帧,前五帧的平均渲染时间,还剩几帧,预计还有多久渲染完成*
 
-![分段渲染](image/分段渲染.png) 
+<img src="image/分段渲染.png" alt="分段渲染" style="transform:rotate(90deg);">
 
 
 
