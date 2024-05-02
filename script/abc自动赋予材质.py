@@ -4,7 +4,7 @@ import re
 # 脚本 by 三分仪
 
 # 将alembic_file.mtl所在路径复制进去，贴图和alembic_file.mtl在同一文件夹下
-#file_path = r'E:\mmd_project\绯色回响mmd\wj\alembic_file.mtl'
+#file_path = r'E:\mmd_project\深空之眼视频\赫拉荆棘花之梦CHUNGHA\wj\alembic_file.mtl'
 
 materials = {}
 with open(file_path, 'r', encoding='gbk') as f:
