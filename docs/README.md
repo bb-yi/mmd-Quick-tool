@@ -1,5 +1,7 @@
 # MMD Quick tool 说明文档
 
+##[**帮助文档**](https://bb-yi.github.io/mmd-Quick-tool/#/)
+
 ## 前言
 
 `MMD Quick tool` 是一个在 `blender` 中制作 **MMD** 或者其他项目是提高效率的工具,主要为了解决平时遇到的繁琐操作和完善制作流程
