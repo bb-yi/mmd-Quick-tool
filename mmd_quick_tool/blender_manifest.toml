@@ -1,0 +1,26 @@
+schema_version = "1.0.0"
+
+id = "mmd_quick_tool"
+version = "1.1.7"
+name = "mmd Quick tool"
+tagline = "MMD workflow helper tools for Blender"
+maintainer = "SFY"
+type = "add-on"
+tags = ["3D View", "Animation", "Material", "User Interface"]
+blender_version_min = "4.2.0"
+website = "https://github.com/bb-yi/mmd-Quick-tool"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+[permissions]
+files = "Import MTL files and append bundled helper assets"
+network = "Open online help and changelog pages"
+
+[build]
+paths_exclude_pattern = [
+  "__pycache__/",
+  "/.git/",
+  "/*.zip",
+]
